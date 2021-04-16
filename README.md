@@ -27,3 +27,5 @@ If python isn't installed, check out this [link](https://realpython.com/installi
 <p align="center">
   <img src="test.gif" alt="animated" />
   </p>
+<br><br>
+PS. If you're still having some trouble...check out this [link](https://www.knowledgehut.com/blog/programming/run-python-scripts), which provides step by step instructions for running Python scripts. 
