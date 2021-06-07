@@ -1,6 +1,6 @@
 # Semester File System Setup 
 
-Are you tired of laying out a whole file system setup each semester? I know I am...which is why I made this quick application last night that creates it for you! 📂 
+Are you tired of laying out a whole file system setup each semester? I know I am...which is why I made this quick application that creates it for you! 📂 
 
 ## Prerequisite
 
