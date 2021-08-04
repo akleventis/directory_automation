@@ -1,6 +1,6 @@
-# Semester File System Setup 
+# Semester File Script 📂
 
-Are you tired of laying out a whole file system setup each semester? I know I am...which is why I made this quick script that does it for you! 📂 
+Are you tired of laying out a whole file system setup each semester? I know I am...which is why I made this quick script that does it for you!  
 
 ## Prerequisite
 
